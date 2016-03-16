@@ -1,0 +1,9 @@
+{
+  _id: 0,
+  gender: '',
+  style: '',
+  name: '',
+  price: '',
+  qtyavailable: 0,
+  created_at: new Date()
+}

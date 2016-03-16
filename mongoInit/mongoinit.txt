@@ -1,0 +1,6 @@
+{"size": "9.5", "title": "Sandals", "width": "R", "qty": "1", "brand": "Keen", "color": "Gray"}
+{"size": "8", "title": "Sandals", "width": "R", "qty": "1", "brand": "Keen", "color": "Gray"}
+{"size": "8.5", "title": "Sandals", "width": "R", "qty": "1", "brand": "Keen", "color": "Gray"}
+{"size": "10", "title": "Sandals", "width": "R", "qty": "1", "brand": "Keen", "color": "Gray"}
+{"size": "7", "title": "Sandals", "width": "R", "qty": "1", "brand": "Keen", "color": "Gray"}
+{"size": "7,5", "title": "Sandals", "width": "R", "qty": "1", "brand": "Keen", "color": "Gray"}

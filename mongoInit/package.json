@@ -1,0 +1,12 @@
+{
+  "name" : "mongoInit",
+  "version" : "0.0.1",
+  "description": "Initialize the Kickinator Mongodb database",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "mongodb": ">=2.1.7"
+  }
+}
