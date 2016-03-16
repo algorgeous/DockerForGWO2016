@@ -9,17 +9,8 @@ From docker.com/what-docker:
   12factor.net
 ## Using Docker locally - Quick Explanation
 ## Using Docker with Carina - Quick Explanation and justification
-## Installing Docker
-Install dvm  
-
-## Installing Carina
-## Creating a Cluster
 ## Running MongoDB in the cluster
 ## Docker Hub
 ## Dockerfile explained
-## Presenting the workshop architecture
-## Inquiry web site
-## Inventory web site
+## Workshop architecture
 ## Inquiry RESTful service
-## Inventory Update RESTful service
-## Show the solution
