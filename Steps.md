@@ -49,7 +49,7 @@ by following the directions from the command ```carina credentials mycluster```
 
 ### First try, an existing sample, no Dockerfile  
 `docker network create wordnet`  
-`docker run --detach --name mysql --net wordnet --env MYSQL_ROOT_PASSWORD=foo mysql:5.6`  
+`docker run --detach --name mysql --net wordnet --env MYSQL_ROOT_PASSWORD=my-root-pw mysql:5.6`  
 
 
 ### Check the log  
